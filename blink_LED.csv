@@ -1,0 +1,13 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"10 uf";"C-US050-035X075";"C050-035X075";"CAPACITOR, American symbol";"";
+"C2";"10 uf";"C-US050-035X075";"C050-035X075";"CAPACITOR, American symbol";"";
+"LED1";"";"LED5MM";"LED5MM";"LED";"";
+"LED2";"";"LED5MM";"LED5MM";"LED";"";
+"PAD1";"";"2,54/1,0";"2,54/1,0";"THROUGH-HOLE PAD";"";
+"PAD2";"";"2,54/1,0";"2,54/1,0";"THROUGH-HOLE PAD";"";
+"Q1";"BC307";"BC307";"TO92";"PNP Transistor";"";
+"Q2";"BC307";"BC307";"TO92";"PNP Transistor";"";
+"R1";"100k ohm";"R-US_0207/12";"0207/12";"RESISTOR, American symbol";"";
+"R2";"470 ohm";"R-US_0207/12";"0207/12";"RESISTOR, American symbol";"";
+"R3";"470 omh";"R-US_0207/12";"0207/12";"RESISTOR, American symbol";"";
+"R4";"100k omh";"R-US_0207/12";"0207/12";"RESISTOR, American symbol";"";
